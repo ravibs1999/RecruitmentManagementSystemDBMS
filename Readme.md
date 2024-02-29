@@ -1,5 +1,5 @@
 # Hire Me
-The Recruitment Management System is a mini-project designed to streamline and enhance the recruitment process. The system incorporates a Python backend utilizing the mysql.connector library to interact with a MySQL database. It features a dual-panel system catering to both recruiters and clients, facilitating efficient communication and collaboration. The project boasts an aesthetically pleasing user interface created with the Tkinter library.
+The Recruitment Management System is a project designed to streamline and enhance the recruitment process. The system incorporates a Python backend utilizing the mysql.connector library to interact with a MySQL database. It features a dual-panel system catering to both recruiters and clients, facilitating efficient communication and collaboration. The project boasts an aesthetically pleasing user interface created with the Tkinter library.
 
 Technical Implementation:
 
